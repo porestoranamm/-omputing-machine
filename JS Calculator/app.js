@@ -20,4 +20,8 @@
         }
     })
 
+    clear.addEventListener('click', function(e){
+        screen.value = "";
+    })
+
 })();
