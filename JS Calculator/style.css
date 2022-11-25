@@ -50,3 +50,8 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.btn-yellow {
+    background: rgb(245, 146, 62);
+    color: #fff;
+}
