@@ -32,6 +32,13 @@ form input {
     background: #000;
 }
 
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+}
+
 button {
     flex: 0 0 22%;
     margin: 5px 0;
